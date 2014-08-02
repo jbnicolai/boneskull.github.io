@@ -1,0 +1,8 @@
+markdown: redcarpet
+highlighter: pygments
+
+title_tag_text: Christopher Hiller
+h1_tag_text: Christopher Hiller
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "node_modules", 
+"LICENSE", "Gemfile*"]
