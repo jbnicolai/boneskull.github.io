@@ -1,9 +1,9 @@
 # Christopher Hiller
 
-Software Engineer, Author, Purist
+*Software Engineer, Author, Purist*
 
 ## Publications
-
+* * *
 ### E-Books
 
 Author, **[Developing an AngularJS Edge](http://bleedingedgepress
@@ -12,7 +12,7 @@ Author, **[Developing an AngularJS Edge](http://bleedingedgepress
 
 Contributor, **[Choosing a JavaScript Framework](http://bleedingedgepress
 .com/our-books/choosing-javascript-framework/)**.  [Bleeding Edge Press](http://bleedingedgepress
-.com), *coming soon*  
+.com), *coming soon.*  
 
 ### Selected Articles
 
@@ -25,7 +25,7 @@ From a series I did at the Safari Books Online blog about large AngularJS apps:
 [Deconstructing a Sprawling Gruntfile.js](http://badwing.com/my-gruntfile-js-an-example-gruntfile-and-my-workflow/)
 
 ## Projects
-
+* * *
 These are projects I own or contribute to.
 
 ### AngularJS-Related
@@ -75,7 +75,7 @@ workflow for opening the `README.md` of any module in npm.
  to take legacy inline `onclick` or `href="javascript:..."` attributes and bind events around it.
 
 ## About Me
-
+* * *
 I like:
 
 1. Writing code
@@ -88,7 +88,7 @@ I like:
 That's <del>seven</del> six things.
 
 ## More About Me
-
+* * *
 ### Development-Related
 
 #### Links
@@ -132,5 +132,5 @@ I'm `boneskull` on irc.freenode.net, usually in `#angularjs` and `#node.js`.
 ### Work
 
 [Decipher, Inc.](http://decipherinc.com)
-
+* * *
 *&copy;2014 Christopher M. Hiller.  Licensed MIT.*
