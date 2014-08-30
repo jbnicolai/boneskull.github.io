@@ -30,49 +30,53 @@ These are projects I own or contribute to.
 
 ### AngularJS-Related
 
-**[angular-debaser](http://decipherinc.github.io/angular-debaser)** - A testing tool for
-[AngularJS](http://angularjs.org)
-applications.
+**[angular-debaser](http://decipherinc.github.io/angular-debaser)** - A testing
+tool for [AngularJS](http://angularjs.org) applications.
 
-**[angular-history](http://decipherinc.github.io/angular-history)** - A powerful undo/redo
-service for AngularJS.
+**[angular-history](http://decipherinc.github.io/angular-history)** - A
+powerful undo/redo service for AngularJS.
 
-**[angular-tags](https://github.com/boneskull/angular-tags)** - Native AngularJS "tagging" widget.
+**[angular-tags](https://github.com/boneskull/angular-tags)** - Native
+AngularJS "tagging" widget.
 
-**[angular-tipped](https://github.com/decipherinc/angular-tipped)** - AngularJS bindings for
-[Tipped](http://tippedjs.com) tooltip library.
+**[angular-tipped](https://github.com/decipherinc/angular-tipped)** - AngularJS
+bindings for [Tipped](http://tippedjs.com) tooltip library.
 
-**[sinon-ng](https://github.com/boneskull/sinon-ng)** - AngularJS integration plugin for [Sinon
-.JS](http://sinonjs.org), a spy/stub/mock library.
+**[sinon-ng](https://github.com/boneskull/sinon-ng)** - AngularJS integration
+plugin for [Sinon .JS](http://sinonjs.org), a spy/stub/mock library.
 
 ### Node.js Modules
 
-**[node-fogbugz](https://npmjs.org/node-fogbugz)** - [Node.js](http://nodejs.org) module to
-interact with the [FogBugz](http://fogbugz.com) API.
+**[node-fogbugz](https://npmjs.org/node-fogbugz)** -
+[Node.js](http://nodejs.org) module to interact with the
+[FogBugz](http://fogbugz.com) API.
 
-**[node-brickset](https://npmjs.org/node-brickset)** - Node.js module to interact with
- the [Brickset](http://brickset.com) API.
+**[node-brickset](https://npmjs.org/node-brickset)** - Node.js module to
+interact with the [Brickset](http://brickset.com) API.
 
-**[node-require-subvert](https://npmjs.org/rvagg/node-require-subvert)** - Node.js unit test
-helper to stub stubborn modules.
+**[node-require-subvert](https://npmjs.org/rvagg/node-require-subvert)** -
+Node.js unit test helper to stub stubborn modules.
 
-**[node-open-readme](https://npmjs.org/node-open-readme)** - Node.js module to open the `README.md`
-of any npm module from the command line.
+**[node-open-readme](https://npmjs.org/node-open-readme)** - Node.js module to
+open the `README.md` of any npm module from the command line.
 
 **[karma-ng-server-side-template2js-preprocessor](https://npmjs
-.org/karma-ng-server-side-template2js-preprocessor)** This mouthful helps [Karma]
-(http://karma-runner.github.io) execute tests against AngularJS and HTML-ish server side templates.
+.org/karma-ng-server-side-template2js-preprocessor)** This mouthful helps
+[Karma] (http://karma-runner.github.io) execute tests against AngularJS and
+HTML-ish server side templates.
 
-**[mocha](http://visionmedia.github.io/mocha/)** - A JavaScript test framework running on Node.js
-and the browser.
+**[mocha](http://visionmedia.github.io/mocha/)** - A JavaScript test framework
+running on Node.js and the browser.
 
 ### Not AngularJS-Related or Node.js Modules
 
-**[alfred-npm-readme](http://www.packal.org/workflow/readme)** - [Alfred 2](http://alfredapp.com)
-workflow for opening the `README.md` of any module in npm.
+**[alfred-npm-readme](http://www.packal.org/workflow/readme)** - [Alfred
+2](http://alfredapp.com) workflow for opening the `README.md` of any module in
+npm.
 
-**[jquery.preempt](http://plugins.jquery.com/jquery.preempt/)** - [jQuery](http://jquery.com) plugin
- to take legacy inline `onclick` or `href="javascript:..."` attributes and bind events around it.
+**[jquery.preempt](http://plugins.jquery.com/jquery.preempt/)** -
+[jQuery](http://jquery.com) plugin to take legacy inline `onclick` or
+`href="javascript:..."` attributes and bind events around it.
 
 ## About Me
 * * *
