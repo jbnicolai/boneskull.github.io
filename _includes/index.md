@@ -6,13 +6,13 @@
 * * *
 ### E-Books
 
-Author, **[Developing an AngularJS
-Edge](http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)**.
-[Bleeding Edge Press](http://bleedingedgepress.com), 2013.
+Author, **[Developing an AngularJS Edge](http://bleedingedgepress
+.com/our-books/developing-an-angularjs-edge/)**. [Bleeding Edge Press](http://bleedingedgepress
+.com), 2013.  
 
-Contributor, **[Choosing a JavaScript
-Framework](http://bleedingedgepress.com/our-books/choosing-javascript-framework/)**.
-[Bleeding Edge Press](http://bleedingedgepress.com), *coming soon.*
+Contributor, **[Choosing a JavaScript Framework](http://bleedingedgepress
+.com/our-books/choosing-javascript-framework/)**.  [Bleeding Edge Press](http://bleedingedgepress
+.com), *coming soon.*  
 
 ### Selected Articles
 
